@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/MetricMolecule/Practicing/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MetricMolecule/Practicing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MetricMolecule/Practicing/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
