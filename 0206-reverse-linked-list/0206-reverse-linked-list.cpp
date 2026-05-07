@@ -14,9 +14,8 @@ public:
         ListNode* curr = head;
         ListNode* prev = nullptr;
         if(head==nullptr || head->next==nullptr) return head;
-        ListNode* nextt = head->next;
         while(curr!=nullptr){  
-            nextt=curr->next;
+            ListNode* nextt=curr->next;
             curr->next=prev;
             prev=curr;
             curr=nextt;
