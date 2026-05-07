@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MetricMolecule/Practicing/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/MetricMolecule/Practicing/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/0040-combination-sum-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MetricMolecule/Practicing/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/MetricMolecule/Practicing/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
