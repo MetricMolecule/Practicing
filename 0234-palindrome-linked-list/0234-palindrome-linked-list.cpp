@@ -33,14 +33,11 @@ public:
             curr=nextt;                  // moving curr to its next (not directly)
         }
 
-        ListNode* head1=head;
-        ListNode* head2=prev;
-        
-        while(head2!=nullptr){
-            if(head1->val!=head2->val) return false;
+        while(prev!=nullptr){
+            if(head->val!=prev->val) return false;
             
-            head1=head1->next;
-            head2=head2->next;
+            head=head->next;
+            prev=prev->next;
         }return true;
     }
 };
