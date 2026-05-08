@@ -18,7 +18,7 @@ public:
         for(int i=0;i<n;i++){
             headstart=headstart->next;
         }
-        while(headstart->next!=nullptr){
+        while(headstart!=nullptr && headstart->next!=nullptr){
             headstart=headstart->next;
             delnode=delnode->next;
         }if(headstart==nullptr){
