@@ -9,15 +9,17 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if(head== nullptr || head->next== nullptr){
-            return false;
-        }ListNode* temp = head;
-        unordered_map <ListNode* , int> hashh;
-        while(temp->next != nullptr){
-            if(hashh.find(temp)!=hashh.end()){
+        if(head==nullptr || head->next==nullptr) return false;
+        ListNode* fast=head;
+        ListNode* slow=head;
+        while(fast!=nullptr && fast->next!=nullptr){
+            fast=fast->next->next;
+            slow=slow->next;
+            if(fast==slow){
                 return true;
-            }hashh[temp]=1;
-            temp=temp->next;
+                break;
+            }
+            
         }return false;
     }
 };
