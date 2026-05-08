@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MetricMolecule/Practicing/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MetricMolecule/Practicing/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/MetricMolecule/Practicing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/MetricMolecule/Practicing/tree/main/0031-next-permutation/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Union-Find
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
