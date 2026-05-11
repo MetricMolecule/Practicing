@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MetricMolecule/Practicing/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MetricMolecule/Practicing/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MetricMolecule/Practicing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0496-next-greater-element-i](https://github.com/MetricMolecule/Practicing/tree/main/0496-next-greater-element-i/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MetricMolecule/Practicing/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MetricMolecule/Practicing/tree/main/0020-valid-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -133,5 +135,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MetricMolecule/Practicing/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MetricMolecule/Practicing/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
