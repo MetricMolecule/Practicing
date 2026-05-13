@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MetricMolecule/Practicing/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MetricMolecule/Practicing/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MetricMolecule/Practicing/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MetricMolecule/Practicing/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -150,4 +153,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/MetricMolecule/Practicing/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MetricMolecule/Practicing/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
