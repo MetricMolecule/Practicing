@@ -6,13 +6,19 @@ public:
         for(int i :nums){
             freq[i]++;
         }
-        //max heap to store with respect to frquencies as a pair, frequency first one of pair
-        priority_queue<pair<int,int>> pq;
+        //min heap to store only top k frequent elements
+        priority_queue<
+            pair<int,int>,
+            vector<pair<int,int>>,
+            greater<pair<int,int>>
+        > pq;
         for(auto it : freq){
             pq.push({it.second,it.first});
+            if(pq.size()>k) pq.pop();
         }
         vector<int> ans;
-        for(int i=0 ; i<k ; i++){
+        //put all the values as size is only k
+        while(!pq.empty()){
             ans.push_back(pq.top().second);
             pq.pop();
         }
