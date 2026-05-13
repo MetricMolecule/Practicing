@@ -13,6 +13,7 @@ public:
             pq.pop();
             pq.push(l2);
         }
+        if(pq.empty()) return 0;
         return pq.top();
     }
 };
