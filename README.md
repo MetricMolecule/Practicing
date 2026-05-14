@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/MetricMolecule/Practicing/tree/main/0046-permutations/) | Medium |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,5 +197,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
