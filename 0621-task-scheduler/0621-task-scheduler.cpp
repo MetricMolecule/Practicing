@@ -15,13 +15,16 @@ public:
         while(!pq.empty()){
             vector<pair<int,char>> temp;
             int task=0;
+            // for n+1 number of times, fill distinct labels
             for(int i=0;i<n+1;i++){
                 if(!pq.empty()){
-                    auto x= pq.top();
-                    pq.pop();
-                    x.first--;
-                    task++;
-                    if(x.first>0) temp.push_back(x);
+                    auto x= pq.top();  //take highest from maxheap pq
+                    pq.pop();          //remove it
+                    x.first--;         //decrease its frequency by 1
+                    task++;            //count as executed, task increased
+                    if(x.first>0) temp.push_back(x); // if frequence of task task after executing>1,
+                                                     // resend it back to temp, which will add later
+                                                     // to priority queue.
                 }
             }
             for(auto it : temp){
