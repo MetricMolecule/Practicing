@@ -9,10 +9,13 @@ public:
     
     void addNum(int num) {
         count++;
+        // storing lesser values in maxheap and greater in minheap, to have like            
+        // two flows with tops as next lesser and next maximum
         if(maxpq.empty() || num<=maxpq.top()){
             maxpq.push(num);
         }
         else minpq.push(num);
+        //balancing the two heaps, so that they have max of 1 diff in size
         if(maxpq.size()>minpq.size()+1){
             int a=maxpq.top();
             minpq.push(a);
