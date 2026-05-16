@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MetricMolecule/Practicing/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/MetricMolecule/Practicing/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MetricMolecule/Practicing/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -216,4 +217,16 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MetricMolecule/Practicing/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
