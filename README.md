@@ -227,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
