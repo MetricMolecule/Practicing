@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MetricMolecule/Practicing/tree/main/0035-search-insert-position/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
