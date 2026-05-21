@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/MetricMolecule/Practicing/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MetricMolecule/Practicing/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
