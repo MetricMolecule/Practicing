@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MetricMolecule/Practicing/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MetricMolecule/Practicing/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
@@ -334,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
