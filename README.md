@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MetricMolecule/Practicing/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MetricMolecule/Practicing/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MetricMolecule/Practicing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MetricMolecule/Practicing/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
+| [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
