@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MetricMolecule/Practicing/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MetricMolecule/Practicing/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MetricMolecule/Practicing/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -330,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -355,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
