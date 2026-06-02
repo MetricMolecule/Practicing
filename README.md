@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/MetricMolecule/Practicing/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MetricMolecule/Practicing/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MetricMolecule/Practicing/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MetricMolecule/Practicing/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/MetricMolecule/Practicing/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/MetricMolecule/Practicing/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/MetricMolecule/Practicing/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MetricMolecule/Practicing/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/MetricMolecule/Practicing/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/MetricMolecule/Practicing/tree/main/0210-course-schedule-ii/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
