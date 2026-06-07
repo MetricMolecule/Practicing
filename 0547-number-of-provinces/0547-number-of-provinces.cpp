@@ -1,29 +1,34 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>adj, vector<int>& visited){
-        visited[node]=1;
-        for(auto neighbor : adj[node]){
-            if(visited[neighbor]==0){
-                dfs(neighbor,adj, visited);
-            }
+    void onion(int u, int v, vector<int>& parent){
+        int x= find(u, parent);
+        int y= find(v, parent);
+        if(x!=y){
+            parent[y]=x;
         }
     }
+    int find(int node, vector<int>& parent){
+        if(parent[node]==node) return node;
+        else return find(parent[node],parent); 
+        
+    }
     int findCircleNum(vector<vector<int>>& isConnected) {
+        // solving using DSU - union and find
         int n=isConnected.size();
-        vector<vector<int>> adj(n);
+        // building the parent vector
+        vector<int> parent(n);
+        for(int i=0;i<n;i++){
+            parent[i]=i;
+        }
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(i!=j && isConnected[i][j]==1) adj[i].push_back(j);
+                if(isConnected[i][j]==1) onion(i,j, parent);
             }
         }
-        vector<int> visited(n,0);
-        int count=0;
+        set<int> provinces;
         for(int i=0;i<n;i++){
-            if(visited[i]==0){
-                count++;
-                dfs(i,adj,visited);
-            }
+            provinces.insert(find(parent[i],parent));
         }
-        return count;
+        return provinces.size();
     }
 };
