@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
@@ -373,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
