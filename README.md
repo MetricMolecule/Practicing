@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/MetricMolecule/Practicing/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/MetricMolecule/Practicing/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/MetricMolecule/Practicing/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/MetricMolecule/Practicing/tree/main/0827-making-a-large-island/) | Hard |
 | [0841-keys-and-rooms](https://github.com/MetricMolecule/Practicing/tree/main/0841-keys-and-rooms/) | Medium |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/MetricMolecule/Practicing/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/MetricMolecule/Practicing/tree/main/0827-making-a-large-island/) | Hard |
 | [0841-keys-and-rooms](https://github.com/MetricMolecule/Practicing/tree/main/0841-keys-and-rooms/) | Medium |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/MetricMolecule/Practicing/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MetricMolecule/Practicing/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0797-all-paths-from-source-to-target](https://github.com/MetricMolecule/Practicing/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/MetricMolecule/Practicing/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
