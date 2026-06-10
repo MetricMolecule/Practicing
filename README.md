@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MetricMolecule/Practicing/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Divide and Conquer
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
+| [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/MetricMolecule/Practicing/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/MetricMolecule/Practicing/tree/main/0841-keys-and-rooms/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MetricMolecule/Practicing/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/MetricMolecule/Practicing/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -415,4 +418,5 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
+| [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 <!---LeetCode Topics End-->
