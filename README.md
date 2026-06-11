@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/MetricMolecule/Practicing/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0827-making-a-large-island](https://github.com/MetricMolecule/Practicing/tree/main/0827-making-a-large-island/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MetricMolecule/Practicing/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0392-is-subsequence/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
