@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/MetricMolecule/Practicing/tree/main/0198-house-robber/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MetricMolecule/Practicing/tree/main/0002-add-two-numbers/) | Medium |
+| [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## String
@@ -431,4 +433,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
