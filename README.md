@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0056-merge-intervals/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/MetricMolecule/Practicing/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/MetricMolecule/Practicing/tree/main/0198-house-robber/) | Medium |
@@ -409,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/MetricMolecule/Practicing/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/MetricMolecule/Practicing/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
