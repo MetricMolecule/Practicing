@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0827-making-a-large-island](https://github.com/MetricMolecule/Practicing/tree/main/0827-making-a-large-island/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MetricMolecule/Practicing/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0827-making-a-large-island](https://github.com/MetricMolecule/Practicing/tree/main/0827-making-a-large-island/) | Hard |
+| [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
