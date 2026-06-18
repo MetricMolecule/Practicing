@@ -1,6 +1,7 @@
 class Solution {
 public:
     int solve(int i, int target, vector<int>& nums, vector<vector<int>>& dp){
+        // if 0 appears, we take it with plus sign and minus sign both
         if(i==0){
             if(target==0 && nums[i]==0) return 2;
             if(target==0 || nums[i]==target) return 1;
