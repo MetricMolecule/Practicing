@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/MetricMolecule/Practicing/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MetricMolecule/Practicing/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/MetricMolecule/Practicing/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
