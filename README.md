@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/MetricMolecule/Practicing/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/MetricMolecule/Practicing/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/MetricMolecule/Practicing/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/MetricMolecule/Practicing/tree/main/0127-word-ladder/) | Hard |
 | [0392-is-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MetricMolecule/Practicing/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MetricMolecule/Practicing/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
