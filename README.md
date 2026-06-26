@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/MetricMolecule/Practicing/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MetricMolecule/Practicing/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/MetricMolecule/Practicing/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MetricMolecule/Practicing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/MetricMolecule/Practicing/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0124-binary-tree-maximum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/MetricMolecule/Practicing/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/MetricMolecule/Practicing/tree/main/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/MetricMolecule/Practicing/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/MetricMolecule/Practicing/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MetricMolecule/Practicing/tree/main/0035-search-insert-position/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/MetricMolecule/Practicing/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MetricMolecule/Practicing/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
