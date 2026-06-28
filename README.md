@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/MetricMolecule/Practicing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MetricMolecule/Practicing/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/MetricMolecule/Practicing/tree/main/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MetricMolecule/Practicing/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MetricMolecule/Practicing/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -477,4 +479,12 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
