@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0695-max-area-of-island](https://github.com/MetricMolecule/Practicing/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/MetricMolecule/Practicing/tree/main/0704-binary-search/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MetricMolecule/Practicing/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/MetricMolecule/Practicing/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/MetricMolecule/Practicing/tree/main/0739-daily-temperatures/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/MetricMolecule/Practicing/tree/main/0542-01-matrix/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/MetricMolecule/Practicing/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MetricMolecule/Practicing/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MetricMolecule/Practicing/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MetricMolecule/Practicing/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MetricMolecule/Practicing/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 ## Design
 | Problem Name | Difficulty |
