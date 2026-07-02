@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MetricMolecule/Practicing/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MetricMolecule/Practicing/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/MetricMolecule/Practicing/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MetricMolecule/Practicing/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0721-accounts-merge](https://github.com/MetricMolecule/Practicing/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
