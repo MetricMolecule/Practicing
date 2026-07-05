@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MetricMolecule/Practicing/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MetricMolecule/Practicing/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MetricMolecule/Practicing/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/MetricMolecule/Practicing/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
