@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MetricMolecule/Practicing/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
