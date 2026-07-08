@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/MetricMolecule/Practicing/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MetricMolecule/Practicing/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/MetricMolecule/Practicing/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MetricMolecule/Practicing/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MetricMolecule/Practicing/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
