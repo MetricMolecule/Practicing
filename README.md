@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MetricMolecule/Practicing/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MetricMolecule/Practicing/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/MetricMolecule/Practicing/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MetricMolecule/Practicing/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MetricMolecule/Practicing/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MetricMolecule/Practicing/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MetricMolecule/Practicing/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MetricMolecule/Practicing/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MetricMolecule/Practicing/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
