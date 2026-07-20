@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MetricMolecule/Practicing/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
+| [1260-shift-2d-grid](https://github.com/MetricMolecule/Practicing/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/MetricMolecule/Practicing/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/MetricMolecule/Practicing/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MetricMolecule/Practicing/tree/main/1020-number-of-enclaves/) | Medium |
+| [1260-shift-2d-grid](https://github.com/MetricMolecule/Practicing/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -599,5 +601,6 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/MetricMolecule/Practicing/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MetricMolecule/Practicing/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
