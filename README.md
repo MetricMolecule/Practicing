@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/MetricMolecule/Practicing/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/MetricMolecule/Practicing/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/MetricMolecule/Practicing/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MetricMolecule/Practicing/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/MetricMolecule/Practicing/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/MetricMolecule/Practicing/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1514-path-with-maximum-probability](https://github.com/MetricMolecule/Practicing/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MetricMolecule/Practicing/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
