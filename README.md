@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MetricMolecule/Practicing/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MetricMolecule/Practicing/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MetricMolecule/Practicing/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MetricMolecule/Practicing/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/MetricMolecule/Practicing/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MetricMolecule/Practicing/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MetricMolecule/Practicing/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MetricMolecule/Practicing/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MetricMolecule/Practicing/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -624,4 +626,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/MetricMolecule/Practicing/tree/main/1260-shift-2d-grid/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MetricMolecule/Practicing/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/MetricMolecule/Practicing/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
