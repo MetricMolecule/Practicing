@@ -652,4 +652,5 @@ Collection of LeetCode questions to ace the coding interview!
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MetricMolecule/Practicing/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/MetricMolecule/Practicing/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/MetricMolecule/Practicing/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/MetricMolecule/Practicing/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
