@@ -676,5 +676,6 @@ Collection of LeetCode questions to ace the coding interview!
 | [1757-recyclable-and-low-fat-products](https://github.com/MetricMolecule/Practicing/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/MetricMolecule/Practicing/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/MetricMolecule/Practicing/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/MetricMolecule/Practicing/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MetricMolecule/Practicing/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
