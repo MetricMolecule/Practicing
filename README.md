@@ -307,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/MetricMolecule/Practicing/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1927-sum-game](https://github.com/MetricMolecule/Practicing/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MetricMolecule/Practicing/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MetricMolecule/Practicing/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1189-maximum-number-of-balloons](https://github.com/MetricMolecule/Practicing/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MetricMolecule/Practicing/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MetricMolecule/Practicing/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1927-sum-game](https://github.com/MetricMolecule/Practicing/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MetricMolecule/Practicing/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MetricMolecule/Practicing/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/MetricMolecule/Practicing/tree/main/0621-task-scheduler/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MetricMolecule/Practicing/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MetricMolecule/Practicing/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1927-sum-game](https://github.com/MetricMolecule/Practicing/tree/main/1927-sum-game/) | Medium |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/MetricMolecule/Practicing/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MetricMolecule/Practicing/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MetricMolecule/Practicing/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -681,4 +684,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [1934-confirmation-rate](https://github.com/MetricMolecule/Practicing/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/MetricMolecule/Practicing/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MetricMolecule/Practicing/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/MetricMolecule/Practicing/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
