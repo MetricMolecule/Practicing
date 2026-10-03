@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MetricMolecule/Practicing/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MetricMolecule/Practicing/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/MetricMolecule/Practicing/tree/main/0031-next-permutation/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MetricMolecule/Practicing/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0056-merge-intervals/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/MetricMolecule/Practicing/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/MetricMolecule/Practicing/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/MetricMolecule/Practicing/tree/main/0347-top-k-frequent-elements/) | Medium |
