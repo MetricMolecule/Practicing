@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MetricMolecule/Practicing/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MetricMolecule/Practicing/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MetricMolecule/Practicing/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MetricMolecule/Practicing/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MetricMolecule/Practicing/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MetricMolecule/Practicing/tree/main/0031-next-permutation/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
