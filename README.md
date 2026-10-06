@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/MetricMolecule/Practicing/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MetricMolecule/Practicing/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/MetricMolecule/Practicing/tree/main/0078-subsets/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MetricMolecule/Practicing/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MetricMolecule/Practicing/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/MetricMolecule/Practicing/tree/main/0090-subsets-ii/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MetricMolecule/Practicing/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MetricMolecule/Practicing/tree/main/0031-next-permutation/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MetricMolecule/Practicing/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0234-palindrome-linked-list/) | Easy |
