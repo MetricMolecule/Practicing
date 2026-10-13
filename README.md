@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/MetricMolecule/Practicing/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MetricMolecule/Practicing/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/MetricMolecule/Practicing/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MetricMolecule/Practicing/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MetricMolecule/Practicing/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MetricMolecule/Practicing/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MetricMolecule/Practicing/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/MetricMolecule/Practicing/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MetricMolecule/Practicing/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MetricMolecule/Practicing/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -435,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MetricMolecule/Practicing/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MetricMolecule/Practicing/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/MetricMolecule/Practicing/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MetricMolecule/Practicing/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
