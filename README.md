@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/MetricMolecule/Practicing/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MetricMolecule/Practicing/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MetricMolecule/Practicing/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/MetricMolecule/Practicing/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MetricMolecule/Practicing/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MetricMolecule/Practicing/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/MetricMolecule/Practicing/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MetricMolecule/Practicing/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MetricMolecule/Practicing/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/MetricMolecule/Practicing/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MetricMolecule/Practicing/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/MetricMolecule/Practicing/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/MetricMolecule/Practicing/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/MetricMolecule/Practicing/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/MetricMolecule/Practicing/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/MetricMolecule/Practicing/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/MetricMolecule/Practicing/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
