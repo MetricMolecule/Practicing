@@ -718,4 +718,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/MetricMolecule/Practicing/tree/main/0169-majority-element/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
