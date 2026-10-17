@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/MetricMolecule/Practicing/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/MetricMolecule/Practicing/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/MetricMolecule/Practicing/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MetricMolecule/Practicing/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MetricMolecule/Practicing/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MetricMolecule/Practicing/tree/main/0496-next-greater-element-i/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MetricMolecule/Practicing/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MetricMolecule/Practicing/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/MetricMolecule/Practicing/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/MetricMolecule/Practicing/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MetricMolecule/Practicing/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/MetricMolecule/Practicing/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/MetricMolecule/Practicing/tree/main/0392-is-subsequence/) | Easy |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/MetricMolecule/Practicing/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/MetricMolecule/Practicing/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/MetricMolecule/Practicing/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/MetricMolecule/Practicing/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1927-sum-game](https://github.com/MetricMolecule/Practicing/tree/main/1927-sum-game/) | Medium |
@@ -725,4 +728,8 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/MetricMolecule/Practicing/tree/main/0056-merge-intervals/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MetricMolecule/Practicing/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
