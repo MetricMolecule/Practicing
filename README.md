@@ -329,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MetricMolecule/Practicing/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/MetricMolecule/Practicing/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/MetricMolecule/Practicing/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/MetricMolecule/Practicing/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/MetricMolecule/Practicing/tree/main/0202-happy-number/) | Easy |
